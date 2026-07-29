@@ -23,7 +23,7 @@ FFmpeg vb. harici yazılımları bilgisayarınıza kurmanıza gerek kalmadan **d
 
 Uygulamayı çalıştırılabilir program olarak kullanmak istiyorsanız:
 
-1. Sağ taraftaki **[Releases](../../releases)** sekmesine gidin.
+1. Sağ taraftaki **[Releases](https://github.com/dermandertsiz1/DermanFetch/releases/tag/V1.0)** sekmesine gidin.
 2. `DermanFetch.exe` dosyasını indirin.
 3. Çift tıklayarak hemen kullanmaya başlayın!
 
@@ -35,5 +35,5 @@ Projeyi kendi bilgisayarınızda derlemek veya geliştirmek isterseniz:
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone [https://github.com/KullanıcıAdın/DermanFetch.git](https://github.com/KullanıcıAdın/DermanFetch.git)
+   git clone [https://github.com/dermandertsiz1/DermanFetch.git](https://github.com/dermandertsiz1/DermanFetch.git)
    cd DermanFetch
